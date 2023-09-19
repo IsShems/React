@@ -19,7 +19,7 @@ function TaskInput({ addTask }) {
     <form onSubmit={handleSubmit}>
       <input
         type="text"
-        placeholder="Enter name of a new task:"
+        placeholder="Enter name of a new task"
         value={taskText}
         onChange={handleInputChange}
       />
