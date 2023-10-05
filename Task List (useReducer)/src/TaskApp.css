@@ -1,0 +1,54 @@
+.task-app {
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    max-width: 400px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    border-radius: 5px;
+  }
+  
+  .task-app h1 {
+    font-size: 24px;
+    margin: 0;
+    margin-bottom: 20px;
+  }
+  
+  .task-app input[type='text'] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .task-app button {
+    font-size: 16px;
+    margin-left: 5px;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .task-app button:hover {
+    background-color: #ddd;
+  }
+  
+  .task-app ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .task-app li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .task-app .completed {
+    text-decoration: line-through;
+  }
+  
