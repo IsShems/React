@@ -1,5 +1,4 @@
-# Create a web application where users can view news items 
-# and also view detailed information about a particular news item.
+# Create a web application where users can view news items and also view detailed information about a particular news item.
 
 ---------------------------------------------------------------------------
 Technical requirements:
