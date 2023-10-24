@@ -1,6 +1,5 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 
-// Создайте async thunk для загрузки новостей
 export const FetchNews = createAsyncThunk(
   'news/fetchNews', 
   async () => {
