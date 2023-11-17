@@ -1,0 +1,14 @@
+.footer-container {
+    padding: 10px 100px;
+    background-color: #083a4e;
+    color: #FFFFFF;
+    
+}
+
+.footer-title {
+    border-bottom: #333333 1px solid;
+}
+
+.footer-column *{
+    color: #FFFFFF;
+}

@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+.places {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: 5%;
+}
+  
+.photo {
+    border: #333333 1px solid;
+    max-width: 95%;
+    max-height: 100%;
+}
+  
+.btn{
+    border: #083a4e 1px solid;
+    color: black;
+    border-radius: 2%;
+    margin-top: 5%;
+    margin-left: 0;
+    height: 40px;
+    width: 200px;
+}

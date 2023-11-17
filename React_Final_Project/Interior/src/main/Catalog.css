@@ -1,0 +1,156 @@
+* {
+    box-sizing: border-box;
+    color: black;
+}
+
+li a{
+    color: #403d39;
+}
+
+li {
+    list-style: none;
+}
+
+.catalog-container {
+    padding: 0 10px;
+    min-height: 30%;
+    overflow: auto;
+}
+
+.categories-container {
+    height: 100%;
+    height: 400px;
+    margin: 20px;
+}
+
+.categories-container div {
+    color: #FFFFFF;
+    font-size: 20px;
+    padding: 2px;
+    height: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.categories-list {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    height: 100%;
+    
+   
+}
+
+.category:hover {
+    border-color: black;
+}
+
+.selected {
+    background-color: #083a4e;
+    color: white;
+}
+
+.content-container {
+    display: flex;
+    min-height: calc(100% - 30px);
+    gap: 10px;
+}
+
+.side-container {
+    min-height: calc(100% - 30px);
+    width: 20%;
+    background-color: #E8E8E8;
+}
+
+.side-container ul li {
+    border-bottom: #333333 1px solid;
+    padding: 10px 5px;
+}
+
+.side-container ul li a {
+    font-size: 16px;
+}
+
+.side-container ul li a:hover {
+    text-decoration: underline;
+}
+
+.products-sort {
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: #333333 1px solid;
+}
+
+.select-box {
+    background-color: #E8E8E8 ;
+    border-color: #403d39;
+    color: #403d39;
+    margin-bottom: 10px;
+    
+}
+
+.products-outer-container {
+    min-height: 50%;
+    height: 500px;
+    width: 80%;
+    padding: 10px;
+}
+
+.products-list {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -10px;
+    background-color: #F5F5F5;
+    overflow-y: auto;
+}
+
+.product-item {
+    flex: 1 0 30%; 
+    margin: 10px;
+    padding: 10px; 
+    background-color: #fff;
+    text-align: center;
+}
+
+.product-img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.add-to-ShoppingCart-container {
+    cursor: pointer;
+    background-color: #083a4e;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    min-height: 30px;
+}
+
+.add-to-ShoppingCart-container:hover {
+    background-color: #405e44 ;
+}
+
+.product-info-container span {
+    text-align: left;
+}
+
+.good-section{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 20px;
+}
+
+.good-section article{
+    border:1px solid rgb(192, 189, 189);
+    margin: 20px;
+}
+
+.good-section article img{
+    height: 200px;
+    width: 200px;
+}
+
