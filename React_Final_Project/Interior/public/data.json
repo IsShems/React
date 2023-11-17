@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "Bed",
+        "photo": "https://image.architonic.com/pro2-3/20280126/ttb160-javorina-tatran-ttb160-c--hires-viz-pro-b-arcit18.jpg",
+        "description": "Polished stainless steel base, giving it a unique Parisian effect.",
+        "price": 120000
+    },
+    {
+        "id": 2,
+        "name": "Armchair VILORA",
+        "photo": "https://ae01.alicdn.com/kf/Had22fb6f8c0c4f94a570f737388a0d50i/Chair-Vilora-Baroque-Dining-Chairs-Room-Furniture-Home.jpeg",
+        "description": "Soft and cozy, neat and stylish. Improve snow and soft to the touch fabric shopping.",
+        "price": 21000
+    },
+    {
+        "id": 3,
+        "name": "Table MENU",
+        "photo": "https://goodmockups.com/wp-content/uploads/2018/09/Free-Resturant-Table-Menu-Mockup-PSD.jpg",
+        "description": "European oak - distinguished by its special strength and stability.",
+        "price": 34000
+    },
+    {
+        "id": 4,
+        "name": "Sofa ASKESTA",
+        "photo": "https://www.ikea.com/ru/ru/images/products/askesta-3-mestnyy-divan-krovat-shiftebu-zheltyy__0778506_pe759028_s5.jpg?f=xxl",
+        "description": "Thanks to the well-deserved mechanism, the sofa easily transforms into a comfortable bed.",
+        "price": 68000
+    },
+    {
+        "id": 5,
+        "name": "Armchair LUNAR",
+        "photo": "https://images.ctfassets.net/0d3syshnxhzo/1nDZvmiheqvex6sAqwW4y7/82dbe4b9434e596f1267cb201c8b94b9/LUNAR_Lounge_Chair_Large__Onyx_Oak-Bellagio-Quartz_Side.jpg?w=480&h=320&fl=progressive&q=50&fm=jpg",
+        "description": "Perfectly conveys the sun's rays, front humidity, and any saplings.",
+        "price": 40000
+    },
+    {
+        "id": 6,
+        "name": "Wardrobe Nastan",
+        "photo": "https://m.media-amazon.com/images/I/81CshDZGDeL._AC_UF894,1000_QL80_.jpg",
+        "description": "Furniture can be equipped with various lighting systems.",
+        "price": 80000
+    },
+    {
+        "id": 7,
+        "name": "Chest of Drawers BRIXTON",
+        "photo": "https://www.therange.co.uk/media/7/7/1648195959_12_6094.jpg",
+        "description": "Modern chest of drawers with spacious drawers. Ideal for the living room or bedroom.",
+        "price": 55000
+    },
+    {
+        "id": 8,
+        "name": "Shelf PAXTON",
+        "photo": "https://us.sonderliving.com/cdn/shop/products/0804108_angle_1_700x700.jpg?v=1626160596",
+        "description": "A versatile bookshelf for books and decor. It has a metal base.",
+        "price": 42000
+    },
+    {
+        "id": 9,
+        "name": "Nightstand REX",
+        "photo": "https://133572683.cdn6.editmysite.com/uploads/1/3/3/5/133572683/s778618012696479264_p1447_i2_w1500.png?width=2400&optimize=medium",
+        "description": "Oak nightstand with two drawers. A great addition to the bed.",
+        "price": 32000
+    },
+    {
+        "id": 10,
+        "name": "Chair OAKLEY",
+        "photo": "https://dznstudio.com/cdn/shop/products/Oakley-Chair-Ottoman_Taboo-Nutmeg_Premarket_WS_770x700.jpg?v=1665090055",
+        "description": "Chair with a soft seat and wooden legs. Comfortable and stylish.",
+        "price": 15000
+    },
+    {
+        "id": 11,
+        "name": "Dining Table LYON",
+        "photo": "https://www.southernstylefinefurniture.com/wp-content/uploads/2022/08/DOV22008.1_clipped_rev_1.jpeg",
+        "description": "Spacious table on four legs. Ideal for family meals.",
+        "price": 72000
+    },
+    {
+        "id": 12,
+        "name": "Small Table ALMA",
+        "photo": "https://www.brandsfurniture.com/filehandler/Productfile/1000x1000/softline-almatable-wood-walnut-46cm-38938.png?v=637974539979654540",
+        "description": "Small wheeled table. Suitable for the office or home office.",
+        "price": 22000
+    },
+    {
+        "id": 13,
+        "name": "Chandelier ELARA",
+        "photo": "https://mobileimages.lowes.com/productimages/43b20049-e35c-49a3-aa98-315c0605fbe1/47709005.jpg",
+        "description": "Modern chandelier with LED lighting. Adds coziness to any room.",
+        "price": 48000
+    },
+    {
+        "id": 14,
+        "name": "Mirror MIRA",
+        "photo": "https://thejodilife.com/cdn/shop/products/BLUE_8590ca5b-1a0b-4224-a300-bd6b302f0db0.jpg?v=1631773517",
+        "description": "Large wall mirror in a wooden frame. Decorates the hallway or bathroom.",
+        "price": 29000
+    },
+    {
+        "id": 15,
+        "name": "Velvet Pouf",
+        "photo": "https://assets.weimgs.com/weimgs/rk/images/wcm/products/202324/0029/cotton-velvet-pouf-m.jpg",
+        "description": "Soft pouf in velvet upholstery. Will adorn the living room.",
+        "price": 18000
+    },
+    {
+        "id": 16,
+        "name": "Hanger STANDY",
+        "photo": "https://i.ebayimg.com/images/g/cuIAAOSwAG9fGkkS/s-l1200.jpg",
+        "description": "Wooden clothes hanger. Simple and functional.",
+        "price": 11000
+    }
+]
